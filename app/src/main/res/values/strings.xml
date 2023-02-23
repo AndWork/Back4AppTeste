@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppBack4TesteII</string>
+    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id" translatable="false">3msqDB1a0DNypgwaQ4WDXfXNNbJWCDWWwgKq0E9p</string>
+    <string name="back4app_client_key" translatable="false">JsYEeDeu1ORHlVo8yeWw8FXiitF3604QRrI59HPK</string>
+</resources>
